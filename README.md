@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak0731&label=Profile%20views&color=0e75b6&style=flat" alt="deepak0731" /> </p>
 
-- 🌱 I’m **AWS_cloud/DevOps_Engineer**
+- 🌱 I’m **AWS_cloud / DevOps_Engineer**
 
 - 💬 Ask me about **AWS , Linux**
 
